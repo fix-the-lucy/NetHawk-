@@ -52,15 +52,16 @@ cd NetHawk-
 ```
 ## Usage 
 
-# To scan for open ports
+• To scan for open ports
 ``` bash
 python port_scanner.py
 ```
 
-# To find IP information
+• To find IP information
 ```
 python ip_finder.py
 ```
+---
 
 ## ⚖️ License
 
@@ -68,20 +69,22 @@ Distributed under the MIT License.
 Copyright (c) 2026 fix-the-lucy
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software.
 
+--- 
 ## 📂 Project Structure
 
 - port_scanner.py: The main engine for scanning target ports.
 - ip_finder.py: Utility for local, public, and DNS IP resolution.
 - README.md: Documentation and safety guidelines.
+--- 
 
 ## 🛡️ Disclaimer
 
-# The developer assumes no liability and is not responsible for any misuse or damage caused by this program. Use NetHawk ethically to improve your own network security awareness, not to compromise others.
-
+- The developer assumes no liability and is not responsible for any misuse or damage caused by this program. Use NetHawk ethically to improve your own network security awareness, not to compromise others.
+---
 ## 🤝 Support & Feedback
 
-# Thank you for using NetHawk! If you find this tool helpful, consider giving it a ⭐ on GitHub.
+- Thank you for using NetHawk! If you find this tool helpful, consider giving it a ⭐ on GitHub.
 
-# Found a bug or have a suggestion? Please feel free to Open an Issue or submit a Pull Request. Your feedback helps make this tool better for everyone.
+- Found a bug or have a suggestion? Please feel free to Open an Issue or submit a Pull Request. Your feedback helps make this tool better for everyone.
 
 ### Stay Safe & Happy Coding!
