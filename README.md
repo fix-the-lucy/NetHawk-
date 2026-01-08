@@ -44,7 +44,7 @@ A three-tier discovery system to map your network footprint:
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/fix-the-lucy/NetHawk
+git clone https://github.com/fix-the-lucy/NetHawk-
 
 # Navigate to the directory
 cd NetHawk-
